@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksrc=self.webpackChunksrc||[]).push([[142],{192:(s,e,c)=>{function t(s,e){const c=document.querySelector(".alert");c.classList.add(s?"alert-success":"alert-danger"),c.innerHTML=e,c.classList.add("show"),setTimeout((()=>{c.classList.remove(s?"alert-success":"alert-danger"),c.innerHTML="",c.classList.remove("show")}),2e3)}c.d(e,{x:()=>t})}}]);
